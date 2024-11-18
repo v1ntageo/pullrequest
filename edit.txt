@@ -1,2 +1,2 @@
-name:
-second_name:
+name: Александр
+second_name: Неверт
